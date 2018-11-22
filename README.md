@@ -14,5 +14,8 @@ python2 X4PriV8.py
 
 ## Termux 
 
-1st one : pip install colorama
+1st one : pip install colorama 
+
 2nd : python2 X4PriV8.py
+
+![](other/bash.png)
