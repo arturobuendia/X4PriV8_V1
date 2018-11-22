@@ -4,15 +4,15 @@ New Bot ALl In One :")
 Great to M4rkWalker (ADDALA ZAKARYA) Nd YASSINE HD <3 
 HOW TO RUN IT ??
 
-#WINDOWS :
+## WINDOWS :
 
 SHOW THIS VIDEO : https://www.youtube.com/watch?v=-wdSvEyipcY
 
-#LINUX :
+## LINUX :
 
 python2 X4PriV8.py
 
-#Termux 
+## Termux 
 
 1st one : pip install colorama
 2nd : python2 X4PriV8.py
